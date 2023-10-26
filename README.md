@@ -4,8 +4,8 @@
 
 ## Links
 
-### @pieces-app/client
-- **On NPM**: [https://www.npmjs.com/package/@pieces-app/client](https://www.npmjs.com/package/@pieces-app/client)
+### @pieces.app/client
+- **On NPM**: [https://www.npmjs.com/package/@pieces.app/client](https://www.npmjs.com/package/@pieces.app/client)
 - **On GitHub**: [https://github.com/pieces-app/client](https://github.com/pieces-app/client)
 - **Example TS Project: Getting Started with Pieces Client**: [https://github.com/pieces-app/example-ts#readme](https://github.com/pieces-app/example-ts#readme)
 
@@ -15,3 +15,4 @@
 
 
 
+ 
