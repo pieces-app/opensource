@@ -9,7 +9,7 @@
 - **On GitHub**: [https://github.com/pieces-app/client](https://github.com/pieces-app/client)
 - **Example TS Project: Getting Started with Pieces Client**: [https://github.com/pieces-app/example-ts#readme](https://github.com/pieces-app/example-ts#readme)
 
-**Documentation**: [https://docs.pieces.app/]
+**Documentation**: [https://docs.pieces.app/](https://docs.pieces.app/)
 
 **Register for the AMA on October 27th, 2023** [https://getpieces.typeform.com/to/leUwUWLo](https://getpieces.typeform.com/to/leUwUWLo)
 
