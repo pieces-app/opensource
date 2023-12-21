@@ -9,7 +9,7 @@
 > [Contribute to a Repo](/#Projects), open an issue, or visit our [general documentation](https://docs.pieces.app) and learn about Pieces to help add to the conversation on how we can apply the power of Pieces OS (via our SDKs) in the products and locations we currently work.
 
 ## 🗄️Resources 
-* [Alpha Documentation Here](https://github.com/pieces-app/pieces-os-client-sdk-for-dart/tree/main/doc)
+* [Alpha Documentation Here](https://github.com/pieces-app/pieces-os-client-sdk-for-dart/blob/sdk-naming-update-from-openapi-gen/doc/ConversationsApi.md)
   - Dart docs in .md that can be used as reference (even for other languages uses). We are working on a documentations platform that supports other languages as well.
 
 * [Discussions on Potential New Projects & Ideas](https://github.com/pieces-app/opensource/discussions)
