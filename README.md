@@ -1,4 +1,4 @@
-# Open Source by Pieces (and you! 😉)
+# Open Source by Pieces (OSP)
 
 <img height="150px" src="https://github.com/pieces-app/opensource/assets/55861512/29ecef11-132a-435e-a039-cb6347490294" />
 
