@@ -36,6 +36,7 @@ Build on top of Pieces OS with this SDK and create your own Contextual Copilot. 
 
 ![image](https://github.com/pieces-app/opensource/assets/55861512/962a7681-f15b-4fb4-89de-defd946f3a5d)
 
+* [Deployed on Maven Central](https://central.sonatype.com/artifact/app.pieces.pieces-os-client/pieces-os-client)
 * [README.md](https://github.com/pieces-app/pieces-os-client-sdk-for-kotlin#readme)
 * [Open Issues](https://github.com/pieces-app/pieces-os-client-sdk-for-kotlin/issues)
 * [Pull Requests](https://github.com/pieces-app/pieces-os-client-sdk-for-kotlin/pulls)
