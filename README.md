@@ -41,6 +41,17 @@ Build on top of Pieces OS with this SDK and create your own Contextual Copilot. 
 * [Open Issues](https://github.com/pieces-app/pieces-os-client-sdk-for-kotlin/issues)
 * [Pull Requests](https://github.com/pieces-app/pieces-os-client-sdk-for-kotlin/pulls)
 
+## 🍦 Self Serve Examples
+
+These examples are very focused, and show a specific feature/set of endpoints off. These are great for starting a project around, and can be useful for finding less cluttered examples that have fewer pending changes.
+
+### 🍦 [Copilot Vanilla Example](https://github.com/pieces-app/pieces-copilot-vanilla-typescript-example)
+
+See how you can use the Copilot by itself using a few endpoints and a WebSocket. Follow this here to see how you can stream in the conversation with your copilot.
+
+* [README/Example](https://github.com/pieces-app/pieces-copilot-vanilla-typescript-example?tab=readme-ov-file#pieces-copilot-vanilla-typescript-example)
+* [Issues](https://github.com/pieces-app/pieces-copilot-vanilla-typescript-example/issues)
+
 ## 🗂️ Projects
 
 ###  🗂️ [Pieces OS Client Example Typescript Project](https://github.com/pieces-app/example-ts) 
