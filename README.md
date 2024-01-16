@@ -47,7 +47,8 @@ These examples are very focused, and show a specific feature/set of endpoints of
 
 ### 🍦 [Copilot Vanilla Example](https://github.com/pieces-app/pieces-copilot-vanilla-typescript-example)
 
-See how you can use the Copilot by itself using a few endpoints and a WebSocket. Follow this here to see how you can stream in the conversation with your copilot.
+See how you can use the Copilot by itself using a few endpoints and a WebSocket. Follow this here to see how you can stream in the conversation with your copilot. There are a few blogs written/being written to assist and guide you as you explore the Pieces Copilot.
+* [(Blog + Tutorial) Build Your Own Copilot in 10 Minutes](https://code.pieces.app/blog/build-your-own-copilot-in-less-than-10-minutes-with-pieces-os-client-13c91)
 
 * [README/Example](https://github.com/pieces-app/pieces-copilot-vanilla-typescript-example?tab=readme-ov-file#pieces-copilot-vanilla-typescript-example)
 * [Issues](https://github.com/pieces-app/pieces-copilot-vanilla-typescript-example/issues)
