@@ -1,6 +1,6 @@
 # Open Source by Pieces (OSP)
 
-Welcome to our Open Source Hub, where you can build your own Pieces Copilot, use your own local Large Local Language Models(LLLMs), reference your own context in Copilot Chats, and save code using an incredible flexible database all together with the community. 
+Welcome to our Open Source Hub, where you can build your own Pieces Copilot, use your own Local Large Language Models(LLLMs), reference your own context in Copilot Chats, and save code using an incredibly flexible database all together with the community. 
 
 Our goal is to bring the power of offline Contextual Copilots even closer to your workflow, and have provided [Pieces OS](https://docs.pieces.app/installation-getting-started/pieces-os) as a resource for you to use in any application you are developing on or a platform via our SDKs.
 
@@ -8,10 +8,10 @@ Our goal is to bring the power of offline Contextual Copilots even closer to you
 
 > A great place to get started is our [Discord Channel](https://discord.gg/getpieces) where all of the community members communicate daily.
 > 
-> [Contribute to a Repo](/#Projects), open an issue, or visit our [general documentation](https://docs.pieces.app) and learn about Pieces to help add to the conversation on how we can apply the power of Pieces OS (via our SDKs) in the products and locations we currently work.
+> [Contribute to a Repo](/#Projects), open an issue or visit our [general documentation](https://docs.pieces.app) and learn about Pieces to help add to the conversation on how we can apply the power of Pieces OS (via our SDKs) in the products and locations we currently work.
 
 ## Resources/Documentation
-Check out these documentation sets to get familiar with some of the functionality available in the each language:
+Check out these documentation sets to get familiar with some of the functionality available in each language:
 
 | Language | Link |
 |---|---|
@@ -21,7 +21,7 @@ Check out these documentation sets to get familiar with some of the functionalit
 | 🗄 Typescript | (coming soon) |
 
 ## SDKs
-Build on top of Pieces OS with this SDK and create your own Contextual Copilot. We reccomend downloading the package via NPM/Maven/pypi where you can find directions on how to use the API's inside of this package. 
+Build on top of Pieces OS with this SDK and create your own Contextual Copilot. We recommend downloading the package via NPM/Maven/PyPI where you can find directions on how to use the APIs inside of this package. 
 
 This package is easy to add to your project and gives you immediate access to all features in Pieces OS. You can always demo all of the available functionality that is present for you to use by downloading [Pieces for Developers Desktop App and Pieces OS](https://docs.pieces.app/installation-getting-started/what-am-i-installing).
 
@@ -49,8 +49,4 @@ Here are some community projects that are currently underway and are always avai
 | Project | Description |
 |---|---|
 | 🗂️ [Pieces Activity Monitor](https://github.com/pieces-app/deskbuddy)  | A community project that helps you understand, evaluate, and improve your coding habits through analytics and Copilot Conversation. |
-| 🗂️ [Example Typescript Playground](https://github.com/pieces-app/example-ts)  | A good starting point to learn about Pieces OS Client - a wide number of contrbutor first issues are here, all adding up to a demo application with many examples in it. |
-
-
-
- 
+| 🗂️ [Example Typescript Playground](https://github.com/pieces-app/example-ts)  | A good starting point to learn about Pieces OS Client - a wide number of contributor first issues are here, all adding up to a demo application with many examples in it. |
