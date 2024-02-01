@@ -33,6 +33,13 @@ This package is easy to add to your project and gives you immediate access to al
 | 📦 [Pieces OS Client SDK for Python](https://github.com/pieces-app/pieces-os-client-sdk-for-python) | [Python Package Deployed on pypi](https://pypi.org/project/pieces-os-client/) |
 | 📦 [WIP] [Pieces OS Client SDK for Dart](https://github.com/pieces-app/pieces-os-client-sdk-for-python) | (not deployed) |
 
+## Playgrounds
+
+These are environments for building and understanding the SDKs wholisticaly, using all of the available features in the client and see real world examples similar to how we have build our products. 
+
+| Project | Description |
+|---|---|
+| 🛝 [Typescript Example Playground](https://github.com/pieces-app/example-ts) | Using the client with NPM to develop on in a web environment. Great HTML, CSS, and JS examples of different functionality. |
 
 ## Simple Starter Projects
 
@@ -48,5 +55,5 @@ Here are some community projects that are currently underway and are always avai
 
 | Project | Description |
 |---|---|
-| 🗂️ [Pieces Activity Monitor](https://github.com/pieces-app/deskbuddy)  | A community project that helps you understand, evaluate, and improve your coding habits through analytics and Copilot Conversation. |
+| 🗂️ [??? Name Pending](https://github.com/pieces-app/deskbuddy)  | A community project that helps you understand, evaluate, and improve your coding habits through analytics and Copilot Conversation. |
 | 🗂️ [Example Typescript Playground](https://github.com/pieces-app/example-ts)  | A good starting point to learn about Pieces OS Client - a wide number of contributor first issues are here, all adding up to a demo application with many examples in it. |
