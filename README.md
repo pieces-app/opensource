@@ -39,7 +39,7 @@ These are environments for building and understanding the SDKs wholisticaly, usi
 
 | Project | Description |
 |---|---|
-| 🛝 [Typescript Example Playground](https://github.com/pieces-app/example-ts) | Using the client with NPM to develop on in a web environment. Great HTML, CSS, and JS examples of different functionality. |
+| 🛝 [Typescript Example Playground](https://github.com/pieces-app/example-typescript) | Using the client with NPM to develop on in a web environment. Great HTML, CSS, and JS examples of different functionality. |
 
 ## Simple Starter Projects
 
