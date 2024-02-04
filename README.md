@@ -56,4 +56,3 @@ Here are some community projects that are currently underway and are always avai
 | Project | Description |
 |---|---|
 | 🗂️ [??? Name Pending](https://github.com/pieces-app/deskbuddy)  | A community project that helps you understand, evaluate, and improve your coding habits through analytics and Copilot Conversation. |
-| 🗂️ [Example Typescript Playground](https://github.com/pieces-app/example-ts)  | A good starting point to learn about Pieces OS Client - a wide number of contributor first issues are here, all adding up to a demo application with many examples in it. |
