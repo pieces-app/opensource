@@ -1,13 +1,13 @@
 # Open Source by Pieces (OSP)
 
+> A great place to get started is our [Discord Channel](https://discord.gg/getpieces) where all the community members communicate daily.
+
 Welcome to our Open Source Hub, where you can build your own Pieces Copilot, use your own Local Large Language Models(LLLMs), reference your own context in Copilot Chats, and save code using an incredibly flexible database all together with the community. 
 
 Our goal is to bring the power of offline Contextual Copilots even closer to your workflow, and have provided [Pieces OS](https://docs.pieces.app/installation-getting-started/pieces-os) as a resource for you to use in any application you are developing on or a platform via our SDKs.
 
 <img src="https://github.com/pieces-app/opensource/assets/55861512/29ecef11-132a-435e-a039-cb6347490294" />
 
-> A great place to get started is our [Discord Channel](https://discord.gg/getpieces) where all of the community members communicate daily.
-> 
 > [Contribute to a Repo](/#Projects), open an issue or visit our [general documentation](https://docs.pieces.app) and learn about Pieces to help add to the conversation on how we can apply the power of Pieces OS (via our SDKs) in the products and locations we currently work.
 
 ## Resources/Documentation
