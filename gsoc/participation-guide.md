@@ -18,7 +18,7 @@ Our [Discord server](discord.com/getpieces) is the best place to connect with ot
 
 ## **Projects List**
 
-### Python-Cli Project
+### [Python-Cli Project](https://github.com/pieces-app/cli-agent)
 
 The Python CLI makes it easy to use the client inside of the terminal. It would be great to queue up the goals that we have set the CLI currently to bring it closer to our full feature set:
 	
@@ -44,7 +44,7 @@ The Python CLI makes it easy to use the client inside of the terminal. It would 
   - Assets
 
 
-### Drag & Drop IntelliJ Project
+### [Drag & Drop IntelliJ Project](https://github.com/pieces-app/IntelliJ-Drag-and-Drop-List)
 
 Drag and drop plugin allowing for additional functionality around dragging and dropping different asset types for custom IntelliJ plugins.
 
@@ -63,7 +63,7 @@ Drag and drop plugin allowing for additional functionality around dragging and d
 - Drag and drop images
 - Enhance Readme to include more related examples using Pieces APIs in ways that could expand the drag and drop project
 
-### Chrome Extension (Web Extensions) Open Sourced
+### [Chrome Extension](https://github.com/pieces-app/v2-web-extensions) (Web Extension) --> Open Sourced
 
 - **Skills Required:**
   - Dart
@@ -80,7 +80,7 @@ Drag and drop plugin allowing for additional functionality around dragging and d
 - Add browser notification callbacks confirming if an asset is saved successfully or other snippet-related information
 - Update documentation throughout the codebase
 
-### Pieces-github-bot
+### Pieces-github-bot 
 
 An AI github bot that assists with maintaining, triaging, and contributions to an open source project completely on device and free inside of Github Actions pipelines. In order to create an easier to manage workflow system for community maintainers, this project would help provide insights and maintainability for extremely small repositories to very large repositories.
 
