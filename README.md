@@ -10,8 +10,14 @@ Our goal is to bring the power of offline Contextual Copilots even closer to you
 > 
 > [Contribute to a Repo](/#Projects), open an issue or visit our [general documentation](https://docs.pieces.app) and learn about Pieces to help add to the conversation on how we can apply the power of Pieces OS (via our SDKs) in the products and locations we currently work.
 
-## Resources/Documentation
+## Resources/Guides
 Check out these documentation sets to get familiar with some of the functionality available in each language:
+
+| Guides |
+|---|
+| [How to Build Your Own Copilot](https://code.pieces.app/blog/build-your-own-copilot-in-less-than-10-minutes-with-pieces-os-client) |
+| [How to Download Local LLM's + Use them with the Copilot](https://code.pieces.app/blog/how-to-build-a-copilot-using-local-llms-with-pieces-client) |
+| [Adding Custom Context to Your Question](https://code.pieces.app/blog/build-your-own-copilot-with-local-context) |
 
 | Language | Link |
 |---|---|
@@ -55,4 +61,5 @@ Here are some community projects that are currently underway and are always avai
 
 | Project | Description |
 |---|---|
-| 🗂️ [??? Name Pending](https://github.com/pieces-app/deskbuddy)  | A community project that helps you understand, evaluate, and improve your coding habits through analytics and Copilot Conversation. |
+| 🗂️ [DeskBuddy](https://github.com/pieces-app/deskbuddy)  | A community project that helps you understand, evaluate, and improve your coding habits through analytics and Copilot Conversation. |
+| 🗂️ [Python CLI Agent](https://github.com/pieces-app/cli-agent)  | A comprehensive command-line interface (CLI) tool designed to interact seamlessly with Pieces OS. It provides a range of functionalities such as asset management, application interaction, and integration with various Pieces OS features. |
