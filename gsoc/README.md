@@ -1,4 +1,14 @@
-# Open Source by Pieces
+# Google Summer of Code 2024 | Open Source by Pieces
+Welcome to the Pieces GSoC 2024 guide and projects page, where you can find information on the projects planned for this year and other information.
+
+[Join our Discord](https://discord.gg/getpieces) for updates and to meet the community.
+
+We are planning to open up proposal submissions at the beginning of March - so stay tuned.
+
+## What is Google Summer of Code?
+Google Summer of Code is a 10+ year old program that brings students closer to development through open source and support the community as a whole through summer projects. 
+
+Open source organizations and projects can become mentor organizations to provide summer projects that are planned out between the mentors and the contributors before and during the project. Learn more about the program [here](https://summerofcode.withgoogle.com/how-it-works).
 
 ## Tagline
 An Open Source Copilot with Context using Large Local Language Models that helps you code, save code snippets, and more throughout your workflow.
@@ -13,10 +23,11 @@ An Open Source Copilot with Context using Large Local Language Models that helps
 
 ## Mentors
 
-- Shivay Lamba
-- Jordan Freeman
-- Sophia Irogebu
-- Sam or Dom (Python CLI project)
+- [Shivay Lamba](https://github.com/shivay-at-pieces)
+- [Jordan Freeman](https://github.com/jordan-pieces)
+- [Rutvik Tak](https://github.com/rutvik110)
+- [Sophia Irogebu](https://github.com/Sophyia7)
+- [Sam Jones](https://github.com/sam-at-pieces)
 
 ## Projects
 
