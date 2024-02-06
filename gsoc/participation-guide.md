@@ -23,7 +23,7 @@ Our [Discord server](discord.com/getpieces) is the best place to connect with ot
 The Python CLI makes it easy to use the client inside of the terminal. It would be great to queue up the goals that we have set the CLI currently to bring it closer to our full feature set:
 	
 
-#### Skills Required
+- **Skills Required:**
   - Python
   - CLI
   - PyPi Packaging
@@ -48,11 +48,11 @@ The Python CLI makes it easy to use the client inside of the terminal. It would 
 
 Drag and drop plugin allowing for additional functionality around dragging and dropping different asset types for custom IntelliJ plugins.
 
-#### Skills Required
 
-- Kotlin
-- IntelliJ SDK
-- Pieces Client SDK
+- **Skills Required:**
+  - Kotlin
+  - IntelliJ SDK
+  - Pieces Client SDK
 
 - **Time Estimate:** 90 hours
 - **Difficulty:** Small
