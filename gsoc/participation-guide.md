@@ -10,8 +10,6 @@ Our [Discord server](discord.com/getpieces) is the best place to connect with ot
 
 
 ## **General suggestions for contributors**
-_________________
-
 - **Code and prototypes are preferred over detailed documentation**:
   Rather than investing extensive time in detailed application documents or unreliable estimates, we encourage applicants to channel their efforts into creating functional prototypes. The emphasis lies on tangible code and prototypes, 
 
