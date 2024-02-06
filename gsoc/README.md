@@ -23,7 +23,7 @@ Open source organizations and projects can become mentor organizations to provid
 | Accepted GSoC Contributor projects announced | May 1, 2024 |
 | Contributors work on their Google Summer of Code projects | May 27, 2024 - August 26, 2024|
 | Mentors submit final GSoC contributor evaluations (standard coding period) | August 26, 2024 - September 2, 2024|
-| Initial results of Google Summer of Code 2024 announced | September 3, 2023 |
+| Initial results of Google Summer of Code 2024 announced | September 3, 2024 |
 | Students work on their Google Summer of Code project | May 1, 2024 - November 4, 2024|
 
 ## Organization Details
