@@ -10,8 +10,21 @@ Google Summer of Code is a 10+ year old program that brings students closer to d
 
 Open source organizations and projects can become mentor organizations to provide summer projects that are planned out between the mentors and the contributors before and during the project. Learn more about the program [here](https://summerofcode.withgoogle.com/how-it-works).
 
-## Tagline
-An Open Source Copilot with Context using Large Local Language Models that helps you code, save code snippets, and more throughout your workflow.
+## What is the timeline for GSoC 2024?
+[Full timeline](https://developers.google.com/open-source/gsoc/timeline)
+
+|Important events | Deadline|
+| ----- | ----- |
+| Organization Applications Open | January 22, 2024|
+| Organization Application Deadline | February 6, 2024 |
+| Organizations Announced | February 21, 2024 |
+| Potential GSoC contributors discuss application ideas with mentoring organizations | February 22 - March 18, 2024 |
+| GSoC contributor application period | March 18 - April 2, 2024 |
+| Accepted GSoC Contributor projects announced | May 1, 2024 |
+| Contributors work on their Google Summer of Code projects | May 27, 2024 - August 26, 2024|
+| Mentors submit final GSoC contributor evaluations (standard coding period) | August 26, 2024 - September 2, 2024|
+| Initial results of Google Summer of Code 2024 announced | September 3, 2023 |
+| Students work on their Google Summer of Code project | May 1, 2024 - November 4, 2024|
 
 ## Organization Details
 
