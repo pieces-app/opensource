@@ -20,7 +20,7 @@ Our [Discord server](discord.com/getpieces) is the best place to connect with ot
 
 ### [Python-Cli Project](https://github.com/pieces-app/cli-agent)
 
-The Python CLI makes it easy to use the client inside of the terminal. It would be great to queue up the goals that we have set the CLI currently to bring it closer to our full feature set:
+The Python CLI makes it easy to use the Pieces Client to save assets, query the Pieces Copilot and manage models all from the command line/terminal. This project contains a number of useful python examples for other projects! 
 	
 
 - **Skills Required:**
@@ -38,15 +38,14 @@ The Python CLI makes it easy to use the client inside of the terminal. It would 
   - Copilot fix
   - Copilot Ask
 - Add Pieces core functionality
-  - Search
-  - Saving
-  - Start
-  - Assets
+  - Search between different saved snippets 
+  - Saving assets/code snippets 
+  - Assets list and database management 
 
 
 ### [Drag & Drop IntelliJ Project](https://github.com/pieces-app/IntelliJ-Drag-and-Drop-List)
 
-Drag and drop plugin allowing for additional functionality around dragging and dropping different asset types for custom IntelliJ plugins.
+A feature plugin for other JetBrains/Intellij developers to use and add into their project, that shows why we needed this functionality for the Pieces Intellij Plugin, and how it can be added into their projects. This Drag and drop plugin allowing for additional functionality around dragging and dropping different asset types for custom IntelliJ plugins. There is documentation improvements needed, CI/CD pipelines and plenty more outside of the inital ideas listed below.
 
 
 - **Skills Required:**
@@ -55,7 +54,7 @@ Drag and drop plugin allowing for additional functionality around dragging and d
   - Pieces Client SDK
 
 - **Time Estimate:** 90 hours
-- **Difficulty:** Small
+- **Difficulty:** Intermediate
 
 #### Task List
 
@@ -65,20 +64,22 @@ Drag and drop plugin allowing for additional functionality around dragging and d
 
 ### [Chrome Extension](https://github.com/pieces-app/v2-web-extensions) (Web Extension) --> Open Sourced
 
+The Pieces Web Extension is browser based tool with the Pieces Copilot features and snippet saving functionality from Chrome, Brave, Opera, and Edge. There are always new opportunities for browser support to be added, as this builds for those listed builds from a single repo. This project is planned to be open source shortly in prep for work here. 👍
+
 - **Skills Required:**
   - Dart
   - Pieces Client SDK
   - Chrome Web Extensions
-- **Time Estimate:** 225 hours
-- **Difficulty:** Medium
+- **Time Estimate:** 300 hours
+- **Difficulty:** Hard
 
 #### Task List
 
 - Moving a closed source project to open source
 - Extract hyperlinks in the selection and add to the snippet metadata
-- Brave browser side panel support
+- Add Brave browser side panel support
 - Add browser notification callbacks confirming if an asset is saved successfully or other snippet-related information
-- Update documentation throughout the codebase
+- Update documentation throughout the codebase + create more robust documentation
 
 ### Pieces-github-bot 
 
