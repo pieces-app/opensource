@@ -20,7 +20,7 @@ Our [Discord server](discord.com/getpieces) is the best place to connect with ot
 
 ### [Python-Cli Project](https://github.com/pieces-app/cli-agent)
 
-The Python CLI makes it easy to use the Pieces Client to save assets, query the Pieces Copilot and manage models all from the command line/terminal. This project contains a number of useful python examples for other projects! 
+The Python CLI makes it easy to use the Pieces Client to save assets, query the Pieces Copilot and manage models all from the command line/terminal.  It provides a range of functionalities such as asset management, application interaction, and integration with various Pieces OS features. This project contains a number of useful python examples for other projects! 
 	
 
 - **Skills Required:**
@@ -30,8 +30,9 @@ The Python CLI makes it easy to use the Pieces Client to save assets, query the 
   - Pieces Client SDK’s
 - **Time Estimate:** 175 hours
 - **Difficulty:** Medium
+- **Mentors:** Jordan, Sam Jones
 
-#### Task List
+#### Expected Task List
 
 - Add further functionality to the CLI-Agent project
 - Add Copilot Functionality
@@ -52,11 +53,11 @@ A feature plugin for other JetBrains/Intellij developers to use and add into the
   - Kotlin
   - IntelliJ SDK
   - Pieces Client SDK
-
 - **Time Estimate:** 90 hours
 - **Difficulty:** Intermediate
+- **Mentors:** Jordan, Rutvik, Shivay
 
-#### Task List
+#### Expected Task List
 
 - Expand data flavors to allow for more file type interaction
 - Drag and drop images
@@ -72,8 +73,9 @@ The Pieces Web Extension is browser based tool with the Pieces Copilot features 
   - Chrome Web Extensions
 - **Time Estimate:** 300 hours
 - **Difficulty:** Hard
+- **Mentors:** Jordan, Rutvik
 
-#### Task List
+#### Expected Task List
 
 - Moving a closed source project to open source
 - Extract hyperlinks in the selection and add to the snippet metadata
@@ -92,8 +94,9 @@ An AI github bot that assists with maintaining, triaging, and contributions to a
   - Bash
 - **Time Estimate:** 300 hours
 - **Difficulty:** Hard
+- **Mentors:** Jordan, Shivay, Sophyia
 
-#### Task List
+#### Expected Task List
 
 - Test spinning up a Pieces OS version in CI/CD
 - Understand the context of the repository it is in
