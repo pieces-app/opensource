@@ -61,5 +61,5 @@ Here are some community projects that are currently underway and are always avai
 
 | Project | Description |
 |---|---|
-| 🗂️ [DeskBuddy](https://github.com/pieces-app/deskbuddy)  | A community project that helps you understand, evaluate, and improve your coding habits through analytics and Copilot Conversation. |
+| 🗂️ [DeskBuddy](https://github.com/ayothekingg/deskbuddy) | A community project that helps you understand, evaluate, and improve your coding habits through analytics and Copilot Conversation. |
 | 🗂️ [Python CLI Agent](https://github.com/pieces-app/cli-agent)  | A comprehensive command-line interface (CLI) tool designed to interact seamlessly with Pieces OS. It provides a range of functionalities such as asset management, application interaction, and integration with various Pieces OS features. |
