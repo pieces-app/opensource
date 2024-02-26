@@ -10,14 +10,19 @@ Our goal is to bring the power of offline Contextual Copilots even closer to you
 
 > [Contribute to a Repo](/#Projects), open an issue or visit our [general documentation](https://docs.pieces.app) and learn about Pieces to help add to the conversation on how we can apply the power of Pieces OS (via our SDKs) in the products and locations we currently work.
 
-## Resources/Guides
-Check out these documentation sets to get familiar with some of the functionality available in each language:
+## Guides
+Follow along with these blogs and tutorials to create your own copilot locally on device.
 
-| Guides |
+| Links |
 |---|
+| [Copilot Overview](https://code.pieces.app/blog/build-your-own-open-source-copilot-with-pieces) (Great starting point) |
 | [How to Build Your Own Copilot](https://code.pieces.app/blog/build-your-own-copilot-in-less-than-10-minutes-with-pieces-os-client) |
 | [How to Download Local LLM's + Use them with the Copilot](https://code.pieces.app/blog/how-to-build-a-copilot-using-local-llms-with-pieces-client) |
 | [Adding Custom Context to Your Question](https://code.pieces.app/blog/build-your-own-copilot-with-local-context) |
+| [Build a Copilot with Microsofts Phi-2](https://code.pieces.app/blog/build-a-copilot-with-phi-2-using-pieces-client) |
+
+## Documentation 
+Use these documentation files to understand how Pieces Client works.
 
 | Language | Link |
 |---|---|
@@ -53,7 +58,7 @@ These examples are very focused, and show a specific feature/set of endpoints of
 
 | Project | Description | Links |
 |---|---|---|
-| 🍦 [Simple Copilot Starter](https://github.com/pieces-app/pieces-copilot-vanilla-typescript-example) |  See how you can use the Copilot by itself using a few endpoints and a WebSocket. Follow this here to see how you can stream in the conversation with your copilot. There are a few blogs written/being written to assist and guide you as you explore the Pieces Copilot. | [(Blog + Tutorial) Build Your Own Copilot in 10 Minutes](https://code.pieces.app/blog/build-your-own-copilot-in-less-than-10-minutes-with-pieces-os-client-13c91) | 
+| 🍦 [Simple Copilot Starter](https://github.com/pieces-app/pieces-copilot-vanilla-typescript-example) |  See how you can use the Copilot by itself using a few endpoints and a WebSocket. Follow this here to see how you can stream in the conversation with your copilot. There are a few blogs written/being written to assist and guide you as you explore the Pieces Copilot. | [(Blog + Tutorial) Build Your Own Copilot in 10 Minutes](https://code.pieces.app/blog/build-your-own-open-source-copilot-with-pieces) | 
 
 ## Projects
 
@@ -63,3 +68,5 @@ Here are some community projects that are currently underway and are always avai
 |---|---|
 | 🗂️ [DeskBuddy](https://github.com/ayothekingg/deskbuddy) | A community project that helps you understand, evaluate, and improve your coding habits through analytics and Copilot Conversation. |
 | 🗂️ [Python CLI Agent](https://github.com/pieces-app/cli-agent)  | A comprehensive command-line interface (CLI) tool designed to interact seamlessly with Pieces OS. It provides a range of functionalities such as asset management, application interaction, and integration with various Pieces OS features. |
+| 🗂️ [Streamlit](https://github.com/shivay-at-pieces/pieces-copilot-streamlit) | The Pieces Copilot Streamlit Bot is an interactive chatbot application built using Streamlit, designed to provide users with a seamless interface to ask questions and receive answers in real-time and powered by Pieces Client |
+| 🗂️ [WIP] [Vim Prototype](https://github.com/pieces-app/vim-prototype) | Access your snippets and Pieces Copilot directly from inside of VIM. |
