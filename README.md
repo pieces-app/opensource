@@ -42,7 +42,7 @@ This package is easy to add to your project and gives you immediate access to al
 | 📦 [Pieces OS Client SDK for Typescript](https://github.com/pieces-app/pieces-os-client-sdk-for-typescript)  | [Deployed on NPM](https://www.npmjs.com/package/@pieces.app/pieces-os-client) |
 | 📦 [Pieces OS Client SDK for Kotlin](https://github.com/pieces-app/pieces-os-client-sdk-for-kotlin)  | [Deployed on Maven Central](https://central.sonatype.com/artifact/app.pieces.pieces-os-client/pieces-os-client) |
 | 📦 [Pieces OS Client SDK for Python](https://github.com/pieces-app/pieces-os-client-sdk-for-python) | [Python Package Deployed on pypi](https://pypi.org/project/pieces-os-client/) |
-| 📦 [WIP] [Pieces OS Client SDK for Dart](https://github.com/pieces-app/pieces-os-client-sdk-for-python) | (not deployed) |
+| 📦 [WIP] [Pieces OS Client SDK for Dart](https://github.com/pieces-app/pieces-os-client-sdk-for-dart) | (not deployed) |
 
 ## Playgrounds
 
