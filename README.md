@@ -28,7 +28,7 @@ Use these documentation files to understand how Pieces Client works.
 |---|---|
 | 🗄 Dart | [To Documentation](https://github.com/pieces-app/pieces-os-client-sdk-for-dart/tree/main/doc) |
 | 🗄 Kotlin | [To Documentation](https://github.com/pieces-app/pieces-os-client-sdk-for-kotlin/tree/main/docs) |
-| 🗄 Python | [To Documentation](https://github.com/pieces-app/pieces-os-client-sdk-for-python/tree/main/docs/docs) |
+| 🗄 Python | [To Documentation](https://github.com/pieces-app/pieces-os-client-sdk-for-python/tree/main/docs) |
 | 🗄 Typescript | (coming soon) |
 
 ## SDKs
