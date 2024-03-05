@@ -2,7 +2,7 @@
 
 > A great place to get started is our [Discord Channel](https://discord.gg/getpieces) where all the community members communicate daily.
 
-Welcome to our Open Source Hub, where you can build your own Pieces Copilot, use your own Local Large Language Models(LLLMs), reference your own context in Copilot Chats, and save code using an incredibly flexible database all together with the community. 
+Welcome to our Open Source Hub, where you can build your own Pieces Copilot, use your own Local Large Language Models(LLLMs), reference your own context in Copilot Chats, and save code using an incredibly flexible database all together with the community.
 
 Our goal is to bring the power of offline Contextual Copilots even closer to your workflow, and have provided [Pieces OS](https://docs.pieces.app/installation-getting-started/pieces-os) as a resource for you to use in any application you are developing on or a platform via our SDKs.
 
@@ -10,8 +10,19 @@ Our goal is to bring the power of offline Contextual Copilots even closer to you
 
 > [Contribute to a Repo](/#Projects), open an issue or visit our [general documentation](https://docs.pieces.app) and learn about Pieces to help add to the conversation on how we can apply the power of Pieces OS (via our SDKs) in the products and locations we currently work.
 
-## Resources/Documentation
-Check out these documentation sets to get familiar with some of the functionality available in each language:
+## Guides
+Follow along with these blogs and tutorials to create your own copilot locally on device.
+
+| Links |
+|---|
+| [Copilot Overview](https://code.pieces.app/blog/build-your-own-open-source-copilot-with-pieces) (Great starting point) |
+| [How to Build Your Own Copilot](https://code.pieces.app/blog/build-your-own-copilot-in-less-than-10-minutes-with-pieces-os-client) |
+| [How to Download Local LLM's + Use them with the Copilot](https://code.pieces.app/blog/how-to-build-a-copilot-using-local-llms-with-pieces-client) |
+| [Adding Custom Context to Your Question](https://code.pieces.app/blog/build-your-own-copilot-with-local-context) |
+| [Build a Copilot with Microsofts Phi-2](https://code.pieces.app/blog/build-a-copilot-with-phi-2-using-pieces-client) |
+
+## Documentation 
+Use these documentation files to understand how Pieces Client works.
 
 | Language | Link |
 |---|---|
@@ -21,7 +32,7 @@ Check out these documentation sets to get familiar with some of the functionalit
 | 🗄 Typescript | (coming soon) |
 
 ## SDKs
-Build on top of Pieces OS with this SDK and create your own Contextual Copilot. We recommend downloading the package via NPM/Maven/PyPI where you can find directions on how to use the APIs inside of this package. 
+Build on top of Pieces OS with this SDK and create your own Contextual Copilot. We recommend downloading the package via NPM/Maven/PyPI where you can find directions on how to use the APIs inside of this package.
 
 This package is easy to add to your project and gives you immediate access to all features in Pieces OS. You can always demo all of the available functionality that is present for you to use by downloading [Pieces for Developers Desktop App and Pieces OS](https://docs.pieces.app/installation-getting-started/what-am-i-installing).
 
@@ -31,11 +42,11 @@ This package is easy to add to your project and gives you immediate access to al
 | 📦 [Pieces OS Client SDK for Typescript](https://github.com/pieces-app/pieces-os-client-sdk-for-typescript)  | [Deployed on NPM](https://www.npmjs.com/package/@pieces.app/pieces-os-client) |
 | 📦 [Pieces OS Client SDK for Kotlin](https://github.com/pieces-app/pieces-os-client-sdk-for-kotlin)  | [Deployed on Maven Central](https://central.sonatype.com/artifact/app.pieces.pieces-os-client/pieces-os-client) |
 | 📦 [Pieces OS Client SDK for Python](https://github.com/pieces-app/pieces-os-client-sdk-for-python) | [Python Package Deployed on pypi](https://pypi.org/project/pieces-os-client/) |
-| 📦 [WIP] [Pieces OS Client SDK for Dart](https://github.com/pieces-app/pieces-os-client-sdk-for-python) | (not deployed) |
+| 📦 [WIP] [Pieces OS Client SDK for Dart](https://github.com/pieces-app/pieces-os-client-sdk-for-dart) | (not deployed) |
 
 ## Playgrounds
 
-These are environments for building and understanding the SDKs wholisticaly, using all of the available features in the client and see real world examples similar to how we have build our products. 
+These are environments for building and understanding the SDKs wholisticaly, using all of the available features in the client and see real world examples similar to how we have build our products.
 
 | Project | Description |
 |---|---|
@@ -47,7 +58,7 @@ These examples are very focused, and show a specific feature/set of endpoints of
 
 | Project | Description | Links |
 |---|---|---|
-| 🍦 [Simple Copilot Starter](https://github.com/pieces-app/pieces-copilot-vanilla-typescript-example) |  See how you can use the Copilot by itself using a few endpoints and a WebSocket. Follow this here to see how you can stream in the conversation with your copilot. There are a few blogs written/being written to assist and guide you as you explore the Pieces Copilot. | [(Blog + Tutorial) Build Your Own Copilot in 10 Minutes](https://code.pieces.app/blog/build-your-own-copilot-in-less-than-10-minutes-with-pieces-os-client-13c91) | 
+| 🍦 [Simple Copilot Starter](https://github.com/pieces-app/pieces-copilot-vanilla-typescript-example) |  See how you can use the Copilot by itself using a few endpoints and a WebSocket. Follow this here to see how you can stream in the conversation with your copilot. There are a few blogs written/being written to assist and guide you as you explore the Pieces Copilot. | [(Blog + Tutorial) Build Your Own Copilot in 10 Minutes](https://code.pieces.app/blog/build-your-own-open-source-copilot-with-pieces) | 
 
 ## Projects
 
@@ -55,4 +66,7 @@ Here are some community projects that are currently underway and are always avai
 
 | Project | Description |
 |---|---|
-| 🗂️ [??? Name Pending](https://github.com/pieces-app/deskbuddy)  | A community project that helps you understand, evaluate, and improve your coding habits through analytics and Copilot Conversation. |
+| 🗂️ [DeskBuddy](https://github.com/ayothekingg/deskbuddy) | A community project that helps you understand, evaluate, and improve your coding habits through analytics and Copilot Conversation. |
+| 🗂️ [Python CLI Agent](https://github.com/pieces-app/cli-agent)  | A comprehensive command-line interface (CLI) tool designed to interact seamlessly with Pieces OS. It provides a range of functionalities such as asset management, application interaction, and integration with various Pieces OS features. |
+| 🗂️ [Streamlit](https://github.com/shivay-at-pieces/pieces-copilot-streamlit) | The Pieces Copilot Streamlit Bot is an interactive chatbot application built using Streamlit, designed to provide users with a seamless interface to ask questions and receive answers in real-time and powered by Pieces Client |
+| 🗂️ [WIP] [Vim Prototype](https://github.com/pieces-app/vim-prototype) | Access your snippets and Pieces Copilot directly from inside of VIM. |
