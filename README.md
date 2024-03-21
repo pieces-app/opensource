@@ -28,7 +28,7 @@ Use these documentation files to understand how Pieces Client works.
 |---|---|
 | 🗄 Dart | [To Documentation](https://github.com/pieces-app/pieces-os-client-sdk-for-dart/tree/main/doc) |
 | 🗄 Kotlin | [To Documentation](https://github.com/pieces-app/pieces-os-client-sdk-for-kotlin/tree/main/docs) |
-| 🗄 Python | [To Documentation](https://github.com/pieces-app/pieces-os-client-sdk-for-python/tree/main/docs/docs) |
+| 🗄 Python | [To Documentation](https://github.com/pieces-app/pieces-os-client-sdk-for-python/tree/main/docs) |
 | 🗄 Typescript | (coming soon) |
 
 ## SDKs
@@ -68,5 +68,5 @@ Here are some community projects that are currently underway and are always avai
 |---|---|
 | 🗂️ [DeskBuddy](https://github.com/ayothekingg/deskbuddy) | A community project that helps you understand, evaluate, and improve your coding habits through analytics and Copilot Conversation. |
 | 🗂️ [Python CLI Agent](https://github.com/pieces-app/cli-agent)  | A comprehensive command-line interface (CLI) tool designed to interact seamlessly with Pieces OS. It provides a range of functionalities such as asset management, application interaction, and integration with various Pieces OS features. |
-| 🗂️ [Streamlit](https://github.com/shivay-at-pieces/pieces-copilot-streamlit) | The Pieces Copilot Streamlit Bot is an interactive chatbot application built using Streamlit, designed to provide users with a seamless interface to ask questions and receive answers in real-time and powered by Pieces Client |
-| 🗂️ [WIP] [Vim Prototype](https://github.com/pieces-app/vim-prototype) | Access your snippets and Pieces Copilot directly from inside of VIM. |
+| 🗂️ [Streamlit x Pieces](https://github.com/pieces-app/pieces-copilot-streamlit-example) | The Pieces Copilot Streamlit Bot is an interactive chatbot application built using Streamlit, designed to provide users with a seamless interface to ask questions and receive answers in real-time and powered by Pieces Client |
+| 🗂️ [Svelte x Pieces](https://github.com/seantiz/piecesvelte) | The Svelte x Pieces project is a quick way to setup a copilot chat and make it highly readable on the front-end, using Sveltekit's built-in methods to present your Pieces chat history within a lightweight, easy-to-build interface. |
