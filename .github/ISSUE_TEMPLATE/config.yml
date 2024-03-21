@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Feature or Project Idea Request
+  - name: Report a Bug
+    url: https://github.com/pieces-app/support/issues
+    about: Report a bug to the Pieces team!
+  - name: Request a Feature or Project Idea
     url: https://github.com/pieces-app/opensource/discussions/new/choose
     about: Post your project idea in discussions for the Pieces team and community to discuss!
