@@ -26,10 +26,10 @@ Use these documentation files to understand how Pieces Client works.
 
 | Language | Link |
 |---|---|
-| 🗄 Dart | [To Documentation](https://github.com/pieces-app/pieces-os-client-sdk-for-dart/tree/main/doc) |
-| 🗄 Kotlin | [To Documentation](https://github.com/pieces-app/pieces-os-client-sdk-for-kotlin/tree/main/docs) |
-| 🗄 Python | [To Documentation](https://github.com/pieces-app/pieces-os-client-sdk-for-python/tree/main/docs) |
-| 🗄 Typescript | (coming soon) |
+| 🗄 Dart | [To Documentation](https://docs.pieces.app/build/reference/dart) |
+| 🗄 Kotlin | [To Documentation](https://docs.pieces.app/build/reference/kotlin) |
+| 🗄 Python | [To Documentation](https://docs.pieces.app/build/reference/python) |
+| 🗄 Typescript | [To Documentation](https://docs.pieces.app/build/reference/typescript) |
 
 ## SDKs
 Build on top of Pieces OS with this SDK and create your own Contextual Copilot. We recommend downloading the package via NPM/Maven/PyPI where you can find directions on how to use the APIs inside of this package.
@@ -66,7 +66,7 @@ Here are some community projects that are currently underway and are always avai
 
 | Project | Description |
 |---|---|
-| 🗂️ [DeskBuddy](https://github.com/ayothekingg/deskbuddy) | A community project that helps you understand, evaluate, and improve your coding habits through analytics and Copilot Conversation. |
 | 🗂️ [Python CLI Agent](https://github.com/pieces-app/cli-agent)  | A comprehensive command-line interface (CLI) tool designed to interact seamlessly with Pieces OS. It provides a range of functionalities such as asset management, application interaction, and integration with various Pieces OS features. |
 | 🗂️ [Streamlit x Pieces](https://github.com/pieces-app/pieces-copilot-streamlit-example) | The Pieces Copilot Streamlit Bot is an interactive chatbot application built using Streamlit, designed to provide users with a seamless interface to ask questions and receive answers in real-time and powered by Pieces Client |
+| 🗂️ [Readme Generator](https://github.com/Sophyia7/readme-generator/) | An open-source community project built using Streamlit and Pieces Python SDK, designed to simplify the process of creating a professional and informative README.md file for your projects. |
 | 🗂️ [Svelte x Pieces](https://github.com/seantiz/piecesvelte) | The Svelte x Pieces project is a quick way to setup a copilot chat and make it highly readable on the front-end, using Sveltekit's built-in methods to present your Pieces chat history within a lightweight, easy-to-build interface. |
