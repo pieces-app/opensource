@@ -66,7 +66,6 @@ Here are some community projects that are currently underway and are always avai
 
 | Project | Description |
 |---|---|
-| 🗂️ [DeskBuddy](https://github.com/ayothekingg/deskbuddy) | A community project that helps you understand, evaluate, and improve your coding habits through analytics and Copilot Conversation. |
 | 🗂️ [Python CLI Agent](https://github.com/pieces-app/cli-agent)  | A comprehensive command-line interface (CLI) tool designed to interact seamlessly with Pieces OS. It provides a range of functionalities such as asset management, application interaction, and integration with various Pieces OS features. |
 | 🗂️ [Streamlit x Pieces](https://github.com/pieces-app/pieces-copilot-streamlit-example) | The Pieces Copilot Streamlit Bot is an interactive chatbot application built using Streamlit, designed to provide users with a seamless interface to ask questions and receive answers in real-time and powered by Pieces Client |
 | 🗂️ [Readme Generator](https://github.com/Sophyia7/readme-generator/) | An open-source community project built using Streamlit and Pieces Python SDK, designed to simplify the process of creating a professional and informative README.md file for your projects. |
